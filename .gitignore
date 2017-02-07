@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # folders and files to be ignored by git
 
 ############
@@ -56,3 +57,6 @@ temp/
 
 *.codekit
 *.scssc
+=======
+.DS_Store
+>>>>>>> 2ee9e80ab2f03a9f5914d3cc9810faee1303fabd
